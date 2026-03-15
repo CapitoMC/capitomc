@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, I'm Capito!
 
-<!--
-**CapitoMC/capitomc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a backend developer, from [Santiago, Chile](https://www.youtube.com/playlist?list=PLcPgDjMVeI8O5EC7SQ8CP3aVRLaizVRS5) 🇨🇱
+- I am currently working in `.js`, `.html` and editing `.yml`, `.toml`. 🔧
+- Studying and practicing in `.java`, `.css`. 📚
+- Founder of [Zaryx Studios](https://github.com/ZaryxStudios) 💡
 
-Here are some ideas to get you started:
+## GitHub Statistics
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=capitomc&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capitomc&layout=compact)
